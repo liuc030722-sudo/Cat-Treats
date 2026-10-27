@@ -1,4 +1,5 @@
 # Cat-Treats
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liuc030722-sudo/Cat-Treats/HEAD)
 Cat Treats Market Entry Analysis | 猫零食市场进入分析
 
 Project Overview | 项目简介
